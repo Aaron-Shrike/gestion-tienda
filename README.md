@@ -12,7 +12,7 @@ Sistema de gestión de una tienda que permite gestionar cliente que permite regi
 </div>
 
 <div align="center">
-<img src="media/menu-venta.png">
+<img src="media/menu-ventas.png">
 <p><strong>Imagen:</strong> Menú gestionar venta - Registrar venta.</p>
 </div>
 
